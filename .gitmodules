@@ -1,9 +1,9 @@
 [submodule "axi-dma-sp-cora-z7-07s"]
-	path = axi-dma-sp-cora-z7-07s
+	path = simple-polling
 	url = https://github.com/BekdoucheAmine/axi-dma-sp-cora-z7-07s.git
 [submodule "axi-dma-intr-cora-z7-07s"]
-	path = axi-dma-intr-cora-z7-07s
+	path = interrupt
 	url = https://github.com/BekdoucheAmine/axi-dma-intr-cora-z7-07s.git
 [submodule "axi-dma-sg-cora-z7-07s"]
-	path = axi-dma-sg-cora-z7-07s
+	path = scatter-gather
 	url = https://github.com/BekdoucheAmine/axi-dma-sg-cora-z7-07s.git
